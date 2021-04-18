@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">task3</string>
+    <string name="title_activity_contact">Contact</string>
+    <string name="title_activity_edit_">Edit_Activity</string>
+    /
+
+    <string name="txtEmailAddress">Email Address</string>
+    <string name="txtCell">Cell Number</string>
+    <string name="txtName">Name</string>
+    <string name="txtSurname">Surname</string>
+    <string name="btnAdd">Add Contact</string>
+    <string name="btnDelete">Delete Contact</string>
+    <string name="btnSortSurname">Sort By Surname</string>
+    <string name="btnSortEmail">Sort By Email</string>
+    <string name="btnSortCell">Sort By Cell</string>
+    <string name="btnSave">Save</string>
+    <string name="btnEdit">Edit</string>
+    <string name="alertMessage">Are You Sure You Want To Delete This Contact?</string>
+    <string name="alertTitle">Delete Contact!</string>
+    <string name="alertPositive">YES</string>
+    <string name="alertNegative">NO</string>
+</resources>
